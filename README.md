@@ -28,6 +28,7 @@ Choose the destination folder where the video will be saved.
 </pre>
 ![](https://github.com/banerjeesatwik/Youtube_Video_Downloader/blob/main/images/4.png)
 <pre>
+
 Then click on 'Download' and downloading will begin. After succesfully download all the videos, it will show a dialog box as confirmation.
 </pre>
 ![](https://github.com/banerjeesatwik/Youtube_Video_Downloader/blob/main/images/5.png)
